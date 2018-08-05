@@ -1,0 +1,142 @@
+solid Rear dashcam mount
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 66.99999999999999 5.0 0.9999999999999999
+    vertex 32.99999999999999 52.00000000000001 0.9999999999999999
+    vertex 32.99999999999999 5.0 0.9999999999999999
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 32.99999999999999 52.00000000000001 0.9999999999999999
+    vertex 66.99999999999999 5.0 0.9999999999999999
+    vertex 66.99999999999999 52.00000000000001 0.9999999999999999
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 32.99999999999999 52.00000000000001 0.9999999999999999
+    vertex 32.99999999999999 5.0 0.0
+    vertex 32.99999999999999 5.0 0.9999999999999999
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 32.99999999999999 5.0 0.0
+    vertex 32.99999999999999 52.00000000000001 0.9999999999999999
+    vertex 32.99999999999999 52.00000000000001 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 32.99999999999999 52.00000000000001 0.9999999999999999
+    vertex 66.99999999999999 52.00000000000001 0.0
+    vertex 32.99999999999999 52.00000000000001 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 66.99999999999999 52.00000000000001 0.0
+    vertex 32.99999999999999 52.00000000000001 0.9999999999999999
+    vertex 66.99999999999999 52.00000000000001 0.9999999999999999
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 66.99999999999999 52.00000000000001 0.0
+    vertex 66.99999999999999 5.0 0.9999999999999999
+    vertex 66.99999999999999 5.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 66.99999999999999 5.0 0.9999999999999999
+    vertex 66.99999999999999 52.00000000000001 0.0
+    vertex 66.99999999999999 52.00000000000001 0.9999999999999999
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 66.99999999999999 5.0 0.9999999999999999
+    vertex 32.99999999999999 5.0 0.0
+    vertex 66.99999999999999 5.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 32.99999999999999 5.0 0.0
+    vertex 66.99999999999999 5.0 0.9999999999999999
+    vertex 32.99999999999999 5.0 0.9999999999999999
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 66.99999999999999 52.00000000000001 0.0
+    vertex 32.99999999999999 5.0 0.0
+    vertex 32.99999999999999 52.00000000000001 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 32.99999999999999 5.0 0.0
+    vertex 66.99999999999999 52.00000000000001 0.0
+    vertex 66.99999999999999 5.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 150.0 5.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 5.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 150.0 5.0 0.0
+    vertex 150.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 150.0 5.0 5.0
+    vertex 150.0 0.0 0.0
+    vertex 150.0 5.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 5.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 5.0 5.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 5.0 5.0
+    vertex 150.0 5.0 0.0
+    vertex 0.0 5.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 150.0 5.0 0.0
+    vertex 0.0 5.0 5.0
+    vertex 150.0 5.0 5.0
+  endloop
+endfacet
+facet normal 0.0 -0.7071067811865476 0.7071067811865476
+  outer loop
+    vertex 150.0 5.0 5.0
+    vertex 0.0 0.0 0.0
+    vertex 150.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -0.7071067811865476 0.7071067811865476
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 150.0 5.0 5.0
+    vertex 0.0 5.0 5.0
+  endloop
+endfacet
+endsolid Rear dashcam mount
